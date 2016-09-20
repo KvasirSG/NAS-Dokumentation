@@ -58,3 +58,8 @@ Synology NAS Dokumentation
   3. Trafik Kontrol.
   4. DSM-indstillinger.
 3. Forbind til trådløst netværk.
+4. Ændre Regionale indstillinger
+  1. Tid.
+  2. Sprog.
+  3. NTP service.
+
